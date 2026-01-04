@@ -1,35 +1,70 @@
-Hey there! I'm Deepanshu 👋  
-(Data Science student | Builder mindset)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Deepanshu | Data Science</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
 
-<!-- Add a coding / data / ML related GIF here -->
+  <header class="hero">
+    <div class="hero-text">
+      <h1>Hi, I'm Deepanshu 👋</h1>
+      <p class="subtitle">
+        Data Science student at <strong>IIT Madras BS</strong><br />
+        Building practical <strong>ML & data analysis projects</strong> using Python and SQL
+      </p>
+    </div>
+    <div class="hero-gif">
+      <!-- Replace GIF link -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
+    </div>
+  </header>
 
-👨🏻‍💻 About Me  
-🔭   Currently pursuing **Data Science at IIT Madras (BS Degree)**  
-🤔   Exploring machine learning, data analysis, and how models work in real systems  
-🎓   Strong interest in **Statistics, Mathematics, and Computer Science**  
-💼   Data Science student working on ML & analytical projects  
-🌱   Focused on **practical ML, clean code, and problem-solving**  
-✍️   Hackathons, tech meetups, and building things outside the syllabus  
-☕   Belief: good logic + patience beats overhyped tools every time  
+  <section class="section">
+    <h2>🔧 What I Work With</h2>
+    <div class="cards">
+      <div class="card">Python, SQL</div>
+      <div class="card">Pandas, NumPy, Matplotlib</div>
+      <div class="card">Machine Learning (scikit-learn)</div>
+      <div class="card">Git & GitHub</div>
+    </div>
+  </section>
 
-🛠 Tech Stack  
-💻   Python | SQL  
-📊   Pandas | NumPy | Matplotlib  
-🤖   scikit-learn (Machine Learning)  
-🌐   Basic HTML | CSS (for projects & dashboards)  
-🔧   Git | GitHub | VS Code | Jupyter Notebook  
+  <section class="section alt">
+    <h2>🚀 Featured Projects</h2>
+    <div class="project">
+      <h3>Project Name</h3>
+      <p>Problem statement + approach + measurable outcome.</p>
+    </div>
+    <div class="project">
+      <h3>Project Name</h3>
+      <p>Dataset-driven analysis with clear insights.</p>
+    </div>
+    <div class="project">
+      <h3>Project Name</h3>
+      <p>End-to-end ML or hackathon project.</p>
+    </div>
+  </section>
 
-📈 GitHub Stats  
-<!-- GitHub stats card -->
+  <section class="section">
+    <h2>🎯 Current Focus</h2>
+    <ul>
+      <li>End-to-end ML workflows (data → model → insights)</li>
+      <li>Clean, structured, readable code</li>
+      <li>Strong statistics and ML fundamentals</li>
+    </ul>
+  </section>
 
-📊 Top Languages  
-Pyhton https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif
-Java Script
-HTML
-CSS
+  <footer class="footer">
+    <h2>📫 Connect With Me</h2>
+    <p>
+      <a href="#" target="_blank">LinkedIn</a> ·
+      <a href="mailto:your@email.com">Email</a>
+    </p>
+    <span>© Deepanshu</span>
+  </footer>
 
-🤝🏻 Connect with Me  
-🔗   LinkedIn: <your-link>  
-📧   Email: 1256deepanshuchauhan@gmail.com
-
-⭐️ From Deepanshu
+</body>
+</html>

@@ -23,10 +23,13 @@ Hey there! I'm Deepanshu 👋
 <!-- GitHub stats card -->
 
 📊 Top Languages  
-<!-- Top languages card -->
+Pyhton https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif
+Java Script
+HTML
+CSS
 
 🤝🏻 Connect with Me  
 🔗   LinkedIn: <your-link>  
-📧   Email: <your-email>  
+📧   Email: 1256deepanshuchauhan@gmail.com
 
 ⭐️ From Deepanshu

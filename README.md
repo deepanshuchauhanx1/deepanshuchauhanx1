@@ -1,30 +1,24 @@
-# Personal Portfolio Website
+<!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Deepanshu%20Chauhan&fontSize=42&fontColor=ffffff" />
+</p>
 
-A clean, responsive personal portfolio website built using **HTML and CSS**.  
-This project is designed to showcase my profile, skills, and projects in a simple, professional way.
+<h3 align="center">Data Science Student | ML Builder | Python</h3>
 
-## 🚀 Live Demo
-🔗 https://<your-username>.github.io/personal-portfolio/
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
-## 🧠 About the Project
-This portfolio highlights:
-- Who I am and what I work on
-- My technical skill set
-- Featured projects
-- Current learning focus
-- Contact information
+---
 
-The goal was to keep the design **minimal, readable, and recruiter-friendly** while following good HTML/CSS practices.
+## 👋 About Me
 
-## 🛠 Tech Stack
-- HTML5 (semantic structure)
-- CSS3 (modern dark theme, responsive layout)
-- GitHub Pages (deployment)
-
-## ✨ Features
-- Responsive design (works on desktop and mobile)
-- Clean UI with dark theme
-- Simple animations and hover effects
-- Easy to extend with new sections or projects
-
-## 📁 Project Structure
+```python
+class Deepanshu:
+    def __init__(self):
+        self.role = "Data Science Student @ IIT Madras BS"
+        self.skills = ["Python", "Machine Learning", "Data Analysis", "SQL"]
+        self.focus = "Building real-world ML projects beyond notebooks"
+        self.mindset = "Learn deeply. Build clean. Ship useful."

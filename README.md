@@ -40,5 +40,5 @@ Currently levelling up in: **NLP · PyTorch · Transformer architectures**
 ### 🏆 Highlights
 
 - 🥇 Top 20 / 300+ teams — Innovo 3.0 Hackathon, IIT Delhi
-- 🎖️ Finalist — E-Summit 2025, IIIT Delhi (R&D to Venture)
+- 🎖️ Runnerup — E-Summit 2025, IIIT Delhi (R&D to Venture)
 

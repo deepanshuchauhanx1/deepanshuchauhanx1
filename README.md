@@ -1,4 +1,4 @@
-## Hi, I'm Deepanshu 👋
+## Hi, I'm [Deepanshu](https://github.com/deepanshuchauhanx1) 👋
 
 🎓 B.S. Data Science & Applications @ IIT Madras (2024–2028)
 🤖 Passionate about Machine Learning, Deep Learning & AI systems

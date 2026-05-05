@@ -33,17 +33,12 @@ Currently levelling up in: **NLP · PyTorch · Transformer architectures**
 
 ### 🚀 Featured projects
 
-#### 🔍 Military object detection (YOLOv8)
-> Trained YOLOv8 to detect 12 military & civilian asset classes.
-> Built a reproducible one-cell Colab pipeline with auto-config.
-> `YOLOv8` `Computer Vision` `Python` `Google Colab`
-
-#### 🚦 AI Traffic Flow Optimizer & Emergency Grid
+#### 🚦 AI Traffic Flow Optimizer(https://github.com/deepanshuchauhanx1/AI-Traffic-Flow-Optimizer)
 > Building an intelligent traffic management system using computer vision to dynamically optimize signal timings based on real-time traffic density.  
 > Implementing emergency vehicle detection to create automated green corridors for ambulances and priority vehicles.  
 > `YOLOv8` `OpenCV` `FastAPI` `Computer Vision` `Python`  
 
-#### 🧠 Exam Forge (AI Question Generation System)
+#### 🧠 Exam Forge (AI Question Generation System)(https://github.com/deepanshuchauhanx1/Exam-Forge-)
 > Developing an AI-powered system to generate and manage exam questions with structured storage.  
 > Designed database schema and backend APIs for tagging (subject, topic, difficulty) and efficient retrieval.  
 > Focused on scalable architecture for automated exam content creation.  

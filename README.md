@@ -34,9 +34,12 @@ Currently levelling up in: **NLP · PyTorch · Transformer architectures**
 ### 🚀 Featured projects
 
 #### 🚦 [AI Traffic Flow Optimizer](https://github.com/deepanshuchauhanx1/AI-Traffic-Flow-Optimizer)
-> Building an intelligent traffic management system using computer vision to dynamically optimize signal timings based on real-time traffic density.  
-> Implementing emergency vehicle detection to create automated green corridors for ambulances and priority vehicles.  
-> `YOLOv8` `OpenCV` `FastAPI` `Computer Vision` `Python`  
+> Built an end-to-end emergency vehicle detection system covering model training, backend API, and frontend dashboard.  
+> Trained a custom image classification model using scikit-learn achieving 85% Top-1 accuracy and 100% Top-5 accuracy.  
+> Developed a FastAPI backend with endpoints to process images and videos, returning vehicle count and density analysis.  
+> Designed a responsive HTML/CSS/JS dashboard with drag-and-drop upload, live results, and detection timeline for videos.  
+> Containerized the application and managed dependencies for consistent local and production deployment.  
+> `Python` `scikit-learn` `FastAPI` `OpenCV` `HTML` `CSS` `JavaScript` `Docker` `Computer Vision`
 
 #### 🧠 [Exam Forge (AI Question Generation System)](https://github.com/deepanshuchauhanx1/Exam-Forge-)
 > Developing an AI-powered system to generate and manage exam questions with structured storage.  

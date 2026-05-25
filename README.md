@@ -33,6 +33,13 @@ Currently levelling up in: **NLP · PyTorch · Transformer architectures**
 
 ### 🚀 Featured projects
 
+#### 🗺️ [Paradox Nav](https://github.com/deepanshuchauhanx1/Paradox_Nav)
+> Built a navigation application featuring real-time map rendering, route parsing, and an intuitive user interface.  
+> Designed and implemented the route/data parser to process navigation inputs and convert them into structured, renderable map data.  
+> Engineered interactive map rendering with dynamic route visualization, markers, and smooth pan/zoom interactions.  
+> Crafted the complete UI/UX — layouts, navigation flows, and responsive components — ensuring a clean and accessible user experience.  
+> `Python` `JavaScript` `HTML` `CSS` `Leaflet.js / Mapbox` `OpenStreetMap`
+
 #### 🚦 [AI Traffic Flow Optimizer](https://github.com/deepanshuchauhanx1/AI-Traffic-Flow-Optimizer)
 > Built an end-to-end emergency vehicle detection system covering model training, backend API, and frontend dashboard.  
 > Trained a custom image classification model using scikit-learn achieving 85% Top-1 accuracy and 100% Top-5 accuracy.  
@@ -41,11 +48,7 @@ Currently levelling up in: **NLP · PyTorch · Transformer architectures**
 > Containerized the application and managed dependencies for consistent local and production deployment.  
 > `Python` `scikit-learn` `FastAPI` `OpenCV` `HTML` `CSS` `JavaScript` `Docker` `Computer Vision`
 
-#### 🧠 [Exam Forge (AI Question Generation System)](https://github.com/deepanshuchauhanx1/Exam-Forge-)
-> Developing an AI-powered system to generate and manage exam questions with structured storage.  
-> Designed database schema and backend APIs for tagging (subject, topic, difficulty) and efficient retrieval.  
-> Focused on scalable architecture for automated exam content creation.  
-> `Python` `SQL` `FastAPI` `Data Modeling`
+
 
 ---
 

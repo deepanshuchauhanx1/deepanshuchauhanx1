@@ -33,18 +33,19 @@ Currently levelling up in: **NLP · PyTorch · Transformer architectures**
 
 ### 🚀 Featured projects
 
-### 🧭 [Paradox Nav](https://github.com/uzi2908/Paradox_Nav) [click to view](https://paradox-nav.vercel.app/)
-**Hyper-local campus navigation & event platform — built for Paradox Festival, IIT Madras**
+#### 🧭 Paradox Nav
+[Repo](https://github.com/uzi2908/Paradox_Nav) &nbsp;|&nbsp; [Live](https://paradox-nav.vercel.app/)
 
-A production-grade routing and event platform combining custom cartography, a self-hosted OSRM routing engine, and real-time festival data ingestion — built to handle extreme traffic bursts over a 4-day festival.
+Team project — built a hyper-local campus navigation and event platform for Paradox Festival, IIT Madras.
 
-**My contributions:**
-- 🗺️ Implemented **map rendering** using MapLibre GL JS with PMTiles for fast, edge-delivered vector tiles
-- 🕸️ Built **database scraping & data collection** pipelines to pull live festival data
-- 🔌 Set up the **PostgreSQL database connection** layer feeding the frontend
-- ⚙️ Designed and shipped a **parser-as-a-service** — a standalone microservice that scrapes the official fest live website and feeds real-time schedule/event data into the main app, decoupled from core routing/map infrastructure
+**My contributions:** map rendering, database scraping, database connection, and data collection.
 
-**Tech:** Next.js, TypeScript, MapLibre GL JS, PMTiles, OSRM, Python, PostgreSQL, Nginx
+- Implemented map rendering using MapLibre GL JS with PMTiles, enabling edge-delivered vector tiles with zero tile-server compute cost.
+- Built database scraping and data collection pipelines to source and structure festival data.
+- Set up and managed the PostgreSQL database connection layer powering the frontend.
+- Designed and deployed a parser-as-a-service, a standalone microservice that scrapes the official fest live website and feeds real-time schedule/event data into the main app.
+
+`TypeScript` `Python` `Next.js` `MapLibre GL JS` `PMTiles` `PostgreSQL` `OSRM` `Docker` `Web Scraping`
 
 
 #### 🚦 [AI Traffic Flow Optimizer](https://github.com/deepanshuchauhanx1/AI-Traffic-Flow-Optimizer)

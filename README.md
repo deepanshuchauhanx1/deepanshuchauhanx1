@@ -33,12 +33,19 @@ Currently levelling up in: **NLP · PyTorch · Transformer architectures**
 
 ### 🚀 Featured projects
 
-#### 🗺️ [Paradox Nav](https://github.com/deepanshuchauhanx1/Paradox_Nav)
-> Built a navigation application featuring real-time map rendering, route parsing, and an intuitive user interface.  
-> Designed and implemented the route/data parser to process navigation inputs and convert them into structured, renderable map data.  
-> Engineered interactive map rendering with dynamic route visualization, markers, and smooth pan/zoom interactions.  
-> Crafted the complete UI/UX — layouts, navigation flows, and responsive components — ensuring a clean and accessible user experience.  
-> `Python` `JavaScript` `HTML` `CSS` `Leaflet.js / Mapbox` `OpenStreetMap`
+### 🧭 [Paradox Nav](https://github.com/uzi2908/Paradox_Nav) [click to view](https://paradox-nav.vercel.app/)
+**Hyper-local campus navigation & event platform — built for Paradox Festival, IIT Madras**
+
+A production-grade routing and event platform combining custom cartography, a self-hosted OSRM routing engine, and real-time festival data ingestion — built to handle extreme traffic bursts over a 4-day festival.
+
+**My contributions:**
+- 🗺️ Implemented **map rendering** using MapLibre GL JS with PMTiles for fast, edge-delivered vector tiles
+- 🕸️ Built **database scraping & data collection** pipelines to pull live festival data
+- 🔌 Set up the **PostgreSQL database connection** layer feeding the frontend
+- ⚙️ Designed and shipped a **parser-as-a-service** — a standalone microservice that scrapes the official fest live website and feeds real-time schedule/event data into the main app, decoupled from core routing/map infrastructure
+
+**Tech:** Next.js, TypeScript, MapLibre GL JS, PMTiles, OSRM, Python, PostgreSQL, Nginx
+
 
 #### 🚦 [AI Traffic Flow Optimizer](https://github.com/deepanshuchauhanx1/AI-Traffic-Flow-Optimizer)
 > Built an end-to-end emergency vehicle detection system covering model training, backend API, and frontend dashboard.  
